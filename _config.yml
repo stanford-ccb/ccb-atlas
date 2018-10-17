@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 
-url: https://ccb-atlas.github.io
+#url: https://ccb-atlas.github.io
 
 # draw your top menu here
 # each item must have a title and a url.
@@ -21,26 +21,30 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'Species'
-    url: '/species'
+    url: '/pages/species'
     submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+      - title: 'By Order'
+        url: '/pages/order/'
+      - title: 'By Family'
+        url: '/pages/family/'
+      - title: 'By Genus'
+        url: '/pages/genus/'
+      - title: 'By Species'
+        url: '/pages/species'
   - title: 'Tags'
     url: '/tags'
 
 # Owner/author information
 owner:
-  name:           Christopher Anderson
-  site:           https://cbanderson.info
+  name:           The Stanford Center for Conservation Biology
+  site:           https://ccb.stanford.edu
   avatar:         images/avatar.jpg
-  bio:            "Christopher Anderson is a PhD student at Stanford University. He is overseeing the development of the CCB Atlas."
+  bio:            "The CCB conducts interdisciplinary research, building the basis for the conservation, management, and restoration of biodiversity and ecosystem services, to evaluate factors that are leading to declining environmental security and increasing inequity, and to find practical solutions to that predicament."
   email:          cbanders@stanford.edu
   # Twitter nick for use in Twitter cards and follow button.
-  twitter: hypersketch # if no twitter in this config, the twitter follow button will be removed
+  twitter: CCBatStanford # if no twitter in this config, the twitter follow button will be removed
   # GitHub nick for use in follow button in author block.
-  github: christobal54
+  github: stanford-ccb
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
@@ -49,11 +53,7 @@ twitter:
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
   - title: "github"
-    url: "https://github.com/christobal54"
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/christopher-b-anderson/"
-  - title: "youtube"
-    url: "https://www.youtube.com/"
+    url: "https://github.com/stanford-ccb"
 
 # Background image to be tiled on all pages
 background:
@@ -96,4 +96,4 @@ titlecase: true
 include: [".htaccess"]
 exclude: ["demo/*", "lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
 gems: [jekyll-paginate]
-#theme: neo-hpstr-jekyll-theme
+theme: minima
