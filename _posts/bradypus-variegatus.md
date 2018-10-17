@@ -10,3 +10,4 @@ image:
   creditlink: 
 permalink: bradypus-variegatus
 ---
+We can add info here!
