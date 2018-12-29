@@ -3,10 +3,11 @@ layout: post
 author: maxwell
 title: Aguascalientia minuta
 modified: 
-description:this is a test
+description:
 tags: [no tag]
 image:
   feature: landsat.jpg
   credit: no one
   creditlink: http://cbanderson.info
+ 
 ---
