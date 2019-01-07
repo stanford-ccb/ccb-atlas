@@ -5,10 +5,10 @@ title: Alouatta palliata
 description: why doesnt this work 
 tags: [no tag]
 image: 
-  feature: 
-  credit: 
-  creditlink: 
-  permalink: alouatta-palliata
+feature: 
+credit: 
+creditlink: 
+permalink: alouatta-palliata
 ---
 Alouatta palliata (Mantled howler monkey)
 Population: 10249 wild, 1352 protected
