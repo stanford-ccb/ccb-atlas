@@ -4,7 +4,7 @@ author: maxwell
 title: Alouatta palliata
 description: why doesnt this work 
 tags: [no tag]
-image: 
+image: https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjIs-Hi9fDfAhUtHjQIHQsnDwgQjxx6BAgBEAI&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCLA_DiR1FfKNvjuUpBHmylQ&psig=AOvVaw35tT_t9LGGh9CMa2CKOHn9&ust=1547680628750586
   feature: 
   credit: 
   creditlink: 
