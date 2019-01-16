@@ -17,4 +17,3 @@ Habitat: Lowland and montane rainforest
 Diet: Leaves, fruits, flowers
 Interesting info: The species is endangered, but evidence suggests that their number are increasing. Live about 25 years in the wild and females breed approximately every 22.5 months. Each female tends to have one offspring. Spend most of their time foraging for food, which leads to a fairly conservative lifestyle. 1352 inhabit protected areas, while 10249 inhabit unprotected areas. Habitat loss and natural disasters are the main threats to the monkeys.
 
-test
