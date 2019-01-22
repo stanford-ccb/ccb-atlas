@@ -4,7 +4,7 @@ author: maxwell
 title: Alouatta palliata
 description: 
 tags: [no tag]
-image: ![](images/alouatta-paliata.png)
+image: ![](images/PlantaeLepid-SolarRad.png)
   feature: 
   credit: 
   creditlink: 
